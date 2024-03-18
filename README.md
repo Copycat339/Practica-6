@@ -7,4 +7,7 @@ Mi nombre es Hector Alexis Constantino Bauchan
 ## Inglés Técnico Para Videojuegos III
 - Profesora: Alina
 - Aprendo ingles nivel B2
-## Principios de Composición y Diseño\n- Profesor: MELO ORTIZ D ORA ROBERTO\n- Estoy aprendiendo sobre la estetica y la composicion de las imagenes y diseños
+## Principios de Composición y Diseño
+- Profesor: MELO ORTIZ D ORA ROBERTO
+- Estoy aprendiendo sobre la estetica y la composicion de las imagenes y diseños
+## Programación En Lenguajes Interpretados\n- Profesor: MIRANDA CHARLES JONATHAN ULISES\n- estoy aprendiendo a crear repositorios en git y a susar visual code
