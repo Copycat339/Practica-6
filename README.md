@@ -13,4 +13,7 @@ Mi nombre es Hector Alexis Constantino Bauchan
 ## Programación En Lenguajes Interpretados
 - Profesor: MIRANDA CHARLES JONATHAN ULISES
 - estoy aprendiendo a crear repositorios en git y a susar visual code
-## Proyecto Semestral: Desarrollo de Aplicaciones Interactivas\n- Profesor: MEJIA HERNANDEZ SEBASTIAN\n- Estoy aprendiendo sobre las bases y sobre como hacer una app, desde tomar apuntes y los diagramas que se necesitan
+## Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
+- Profesor: MEJIA HERNANDEZ SEBASTIAN
+- Estoy aprendiendo sobre las bases y sobre como hacer una app, desde tomar apuntes y los diagramas que se necesitan
+## Sistemas Operativos y Redes\n- Profesor: MORALES CHAVEZ OSIEL\n- Estoy aprendiendo sobre sistemas y html
